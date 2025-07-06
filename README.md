@@ -1,7 +1,10 @@
 # Medical-RAG-Assistant-Retrieval-Augmented-Generation-for-Clinical-Decision-Support
 A Retrieval-Augmented Generation (RAG) system for healthcare professionals, leveraging trusted medical manuals (e.g., Merck Manual) to deliver accurate, context-grounded answers to clinical questions. 
+
 Project Introduction
+
 Purpose:
+
 Provide healthcare professionals with rapid, reliable, and up-to-date medical knowledge using a RAG pipeline grounded in authoritative sources.
 
 Key Features:
